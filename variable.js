@@ -14,5 +14,9 @@ blueEyes //=> false
 children // => 1
 location // => Estes Park
 
+console.log (age)
+console.log (female)
+console.log (location)
+
 
 
