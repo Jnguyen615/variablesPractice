@@ -10,5 +10,9 @@ var female = true
 var native = true 
 var blueEyes = true
 
+blueEyes //=> false
+children // => 1
+location // => Estes Park
+
 
 
