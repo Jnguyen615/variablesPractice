@@ -12,7 +12,7 @@ var blueEyes = true
 
 blueEyes = false 
 children = 1
-location = Estes Park
+location = "Estes Park"
 
 console.log(name)
 console.log(email)
