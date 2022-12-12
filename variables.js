@@ -7,4 +7,6 @@ var mileage = 50,000k
 var seats = 5
 
 var paidOff = true
-var 
+var TRD = true 
+var blackout = false 
+
