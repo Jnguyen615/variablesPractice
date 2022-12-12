@@ -11,7 +11,6 @@ var TRD = true
 var blackout = false 
 
 var color = "Red"
-"
 mileage = 15000
 blackout = true 
 
